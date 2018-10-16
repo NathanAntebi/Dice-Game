@@ -125,7 +125,3 @@ function init(){
 }
 
 
-
-
-//document.querySelector('#current-'+ activePlayer).textContent = dice; //use .textContent to manipulate data shown in a element
-//Use .innerHTML to use HTML code do manipulate text...document.querySelector('#current-' + activePlayer).innerHTML = '<em>' + dice + '</em>';
